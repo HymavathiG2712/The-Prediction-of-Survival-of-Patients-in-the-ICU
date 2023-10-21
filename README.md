@@ -23,6 +23,12 @@ Data Preprocessing has been done:
 Data Vizualization
 Model building
 Optimization Techniques:(Gride search , Random search , Gradient decent , Stochastic descent )
+Model evaluation 
+
+SMOTE (Synthetic Minority Oversampling Technique) is a statistical technique for increasing the number of cases in your dataset in a balanced way.
+Model evaluation after the SMOTE
+
+
 
 
  
