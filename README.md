@@ -17,7 +17,8 @@ Filled missing categorical variables with mode and missing numerical values with
 Differentiated distribution of columns with histograms for numerical and bar graphs for categorical columns.
 Mapped categorical columns into numerical equivalents.
 Utilized Spearman correlation to identify dependencies between columns.
-Result:
+
+Result(R):
 
 Data cleaning reduced the dataset from 91,714 rows to 44,683 rows.
 Application of machine learning algorithms (Random Forest Classifier and XGBoost Classifier) achieved significant accuracies.
