@@ -1,9 +1,13 @@
 Prediction of Survival of Patients in the ICU - Informatics Machine Learning Project
 
 Situation (S):
+
+
 In 2020, there were 33,356,853 hospital admissions in the United States. Quick assessment of a patient’s health upon admission is vital, especially in ICUs where chronic health data is often unavailable. To address this, we're analyzing data from the first 24 hours of admission, including blood tests, vital signs, and other factors like BMI and blood pH, to predict patient survival. Challenges include accurately predicting survival with limited initial data and the absence of chronic health information.
 
 Task (T):
+
+
 Our task is to analyze patient demographic data, medical history, and EHR records to predict illness severity and chances of survival using machine learning algorithms such as Random Forest Classifier and XGBoost Classifier. This analysis aims to identify key attributes indicating survival chances for patients with illnesses and facilitate faster diagnosis and treatment decisions. We aim to identify the major attributes contributing to survival.
 
 Action (A):
