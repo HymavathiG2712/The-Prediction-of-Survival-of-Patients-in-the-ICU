@@ -26,7 +26,7 @@ Result(R):
 
 Data cleaning reduced the dataset from 91,714 rows to 44,683 rows.
 Application of machine learning algorithms (Random Forest Classifier and XGBoost Classifier) achieved significant accuracies.
-Utilization of Synthetic Minority Oversampling Technique (SMOTE) improved accuracy further.
+Utilization of Synthetic Minority Oversampling Technique (SMOTE) improved accuracy further from 92 to 96%.
 Identified major attributes contributing to patient survival, facilitating faster diagnosis and treatment decisions
 
  
